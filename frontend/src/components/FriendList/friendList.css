@@ -8,7 +8,7 @@
     min-height: 18em;
  margin-left: 1.5em;
  margin-bottom: -4.75em;
- position: relative;
+ /* position: relative; */
 }
 .boxTitle{
     background-color:var(--mainColor) ;
@@ -86,7 +86,7 @@ font-size:0.9em !important;
    text-align: right;
    margin-right: 0.5em;
    transition: 0.5s ease;
-   position: absolute;
+   /* position: absolute; */
    bottom:0.5em;
    right:0.75em;
 }
